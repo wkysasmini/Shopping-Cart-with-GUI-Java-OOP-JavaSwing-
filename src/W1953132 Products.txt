@@ -1,0 +1,44 @@
+Products Information
+.................
+
+
+Product 1
+-----------
+Product Category: Clothing
+Product ID: C1000
+Product Name: T-Shirt
+Number of Available Items: 50
+Price: 1200.0
+Size: 25
+Colour: Red
+
+Product 2
+-----------
+Product Category: Clothing
+Product ID: C1100
+Product Name: Skirt
+Number of Available Items: 30
+Price: 1000.0
+Size: 20
+Colour: Blue
+
+Product 3
+-----------
+Product Category: Electronic
+Product ID: E2000
+Product Name: Bulb
+Number of Available Items: 40
+Price: 850.55
+Brand: Bulb-A
+Warranty Period: 1
+
+Product 4
+-----------
+Product Category: Electronic
+Product ID: E2100
+Product Name: Heater
+Number of Available Items: 12
+Price: 1500.0
+Brand: Heater-1
+Warranty Period: 2
+
